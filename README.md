@@ -10,7 +10,7 @@
 
   
 ![image](https://github.com/Sinancay/testcase_unicorn/assets/6921402/c4fa74ac-ec65-419e-bc3d-67ab7120d0b2)
-![image](https://github.com/Sinancay/testcase_unicorn/assets/6921402/02c5b4af-c7bc-45db-a8aa-035fbf670c61)
+![image](https://github.com/Sinancay/testcase_unicorn/assets/6921402/32d0e5ac-47e7-4888-9c62-0074b66f7208)
 ![image](https://github.com/Sinancay/testcase_unicorn/assets/6921402/ca291f98-11b6-4744-a39a-5c59033e13ac)
 
 
