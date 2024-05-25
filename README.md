@@ -9,9 +9,10 @@
 * --Sample images app--
 
   
-![image](https://github.com/Sinancay/homework/assets/6921402/017d2625-e954-4a0a-a128-ea5a7696123e)
-![image](https://github.com/Sinancay/homework/assets/6921402/16870b3a-f1dd-4596-96bb-723e8d81b6c5)
-![image](https://github.com/Sinancay/homework/assets/6921402/2c81ba3f-b286-42b0-baae-367e13ffadd3)
+![image](https://github.com/Sinancay/testcase_unicorn/assets/6921402/c4fa74ac-ec65-419e-bc3d-67ab7120d0b2)
+![image](https://github.com/Sinancay/testcase_unicorn/assets/6921402/02c5b4af-c7bc-45db-a8aa-035fbf670c61)
+![image](https://github.com/Sinancay/testcase_unicorn/assets/6921402/ca291f98-11b6-4744-a39a-5c59033e13ac)
+
 
 
 
