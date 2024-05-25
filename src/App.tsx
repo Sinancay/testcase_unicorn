@@ -146,7 +146,7 @@ function App() {
                renderInput={(params) => (
                         <TextField
                            {...params}
-                           label="Character Select"
+                           label="Filter Character Name"
                            value={inputValue}
                            onChange={(event: any) => {setValue(event.target.value)}}
                            InputProps={{
